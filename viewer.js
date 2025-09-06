@@ -3190,7 +3190,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "ASAP课题组介绍-研究团队.pdf",
+    value: "ASAP课题组-PPT-2025-09.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.disablePreferences = {
